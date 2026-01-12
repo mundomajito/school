@@ -34,3 +34,4 @@ build/
 
 
 ## Application Yaml ##
+src/main/resources/application.yaml
