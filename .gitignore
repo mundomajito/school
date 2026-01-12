@@ -33,5 +33,5 @@ build/
 .vscode/
 
 
-## Application Yaml ##
+### Application Yaml ###
 src/main/resources/application.yaml
